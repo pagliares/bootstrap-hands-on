@@ -1,1 +1,1 @@
-# bootstrap-hands-on
+# Bootstrap Hands-on
