@@ -35,6 +35,10 @@ This course focus on CSS version of BootStrap.
 - A third improvement is that almost all styles are set to inherit from their parents. This means that bootstrap is much easier to style.
 
 <strong>Bootstrap defaults</strong>:
-  - Native sans-serif fonts
-  - Body background #fff
-  - Box sizing: border-box
+- Native sans-serif fonts
+- Body background: #fff
+- Box sizing: border-box
+
+- The problem of not using border-box as the default for box sizing (see box-sizing.html) is that the padding gets added to the size, so the box is actually 520 pixels, 500 plus 10 on each side. 
+  - This is terrible, because normally when you say you want something to be 500 pixels wide, you actually expect it to be 500 pixels wide. 
+- There's a lot of other modifications and reboot but these are probably the most important to note.  
