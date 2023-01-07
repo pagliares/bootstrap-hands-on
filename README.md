@@ -13,12 +13,12 @@ This hands-on focus on CSS version of BootStrap.
 ## Examples
 
 ### 01 - Bootstrap and Bootstrap Icons CDN template
-
+- <a href="https://github.com/pagliares/bootstrap-hands-on#outline">Back to Outline</a>
 - This example presents a <strong>web document template</strong> that includes <strong>Bootstrap</strong> and <strong>Bootstrap icons</strong> declarations on it's head element.
 - The template is reused in all other examples in this repo.
 
 ### 02 - Bootstrap icons
-
+- <a href="https://github.com/pagliares/bootstrap-hands-on#outline">Back to Outline</a>
 - Bootstrap icons: https://icons.getbootstrap.com
 - Bootstrap icons is a free library from the creators of Bootstrap
 - The example demonstrates:
@@ -29,7 +29,7 @@ This hands-on focus on CSS version of BootStrap.
   - How to adjust spacing
 
 ### 03 - Reboot
-
+- <a href="https://github.com/pagliares/bootstrap-hands-on#outline">Back to Outline</a>
 - For more details on Reboot, visit: https://getbootstrap.com/docs/5.2/content/reboot/
 - This example includes 2 web documents box-sizing.html and inherit.html that present some improvements and defaults used by Bootstrap concerning a collection of element-specific CSS changes.
 - In other words, Bootstrap has a set of styles called reboot that attempts to create a consistent baseline across different browsers.
@@ -52,7 +52,7 @@ This hands-on focus on CSS version of BootStrap.
 - There's a lot of other modifications and reboot but these are probably the most important to note.  
 
 ### 04 - Bootstrap containers
-
+- <a href="https://github.com/pagliares/bootstrap-hands-on#outline">Back to Outline</a>
 - For more details on Bootstrap containers, visit: https://getbootstrap.com/docs/5.2/layout/containers/
 - <strong>container</strong> is probably the most important class in Bootstrap.
 - This example contains a series of containers. You can see that the <strong>container-fluid class</strong> is always going to be the full width of the the viewport, except for a little bit of margin on each side.
@@ -62,7 +62,7 @@ This hands-on focus on CSS version of BootStrap.
 <p align="center"><img src="https://github.com/pagliares/bootstrap-hands-on/blob/main/Images/bootstrap-containers.png" width=824 heigh=323></p>
 
 ### 05 - Bootstrap colors
-
+- <a href="https://github.com/pagliares/bootstrap-hands-on#outline">Back to Outline</a>
 - For more details on Bootstrap colors, visit: https://getbootstrap.com/docs/5.2/customize/color/
 - This examples consists of two web documents (index-with-bootstrap.html and index-without-bootstrap.html). 
   - The former presents the web document without bootstrap colors applied
