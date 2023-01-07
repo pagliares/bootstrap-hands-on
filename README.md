@@ -42,3 +42,13 @@ This course focus on CSS version of BootStrap.
 - The problem of not using border-box as the default for box sizing (see box-sizing.html) is that the padding gets added to the size, so the box is actually 520 pixels, 500 plus 10 on each side. 
   - This is terrible, because normally when you say you want something to be 500 pixels wide, you actually expect it to be 500 pixels wide. 
 - There's a lot of other modifications and reboot but these are probably the most important to note.  
+
+### 04 - Bootstrap containers
+
+- For more details on Bootstrap containers, visit: https://getbootstrap.com/docs/5.2/layout/containers/
+- <strong>container</strong> is probably the most important class in Bootstrap.
+- This example contains a series of containers. You can see that the <strong>container-fluid class</strong> is always going to be the full width of the the viewport, except for a little bit of margin on each side.
+- if you make this viewport smaller, hiting predefined Bootstrap breakpoints (see image below), at some point, the <strong>container-xxl</strong>, <strong>container-xl</strong>, <strong>container-lg</strong>, <strong>container-md</strong>, <strong>container-sm</strong>, and <strong>container</strong> classes will actually convert to be a 100% of the width of the viewport.
+  - if you go the other way, increasing the width of the viewport, you can see the same happens in reverse. 
+
+<p align="center"><img src="https://github.com/pagliares/bootstrap-hands-on/blob/main/Images/bootstrap-containers.png" width=824 heigh=323></p>
