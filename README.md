@@ -1,6 +1,14 @@
 # Bootstrap Hands-on
 
-This course focus on CSS version of BootStrap.
+This hands-on focus on CSS version of BootStrap.
+
+## Outline
+
+<a href="https://github.com/pagliares/bootstrap-hands-on#01---bootstrap-and-bootstrap-icons-cdn-template">01 - Bootstrap and Bootstrap Icons CDN template</a><br>
+<a href="https://github.com/pagliares/bootstrap-hands-on#02---bootstrap-icons">02 - Bootstrap icons</a><br>
+<a href="https://github.com/pagliares/bootstrap-hands-on#03---reboot">03 - Reboot</a><br>
+<a href="https://github.com/pagliares/bootstrap-hands-on#04---bootstrap-containers">04 - Bootstrap containers</a><br>
+<a href="https://github.com/pagliares/bootstrap-hands-on#05---bootstrap-colors">05 - Bootstrap colors</a><br>
 
 ## Examples
 
