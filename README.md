@@ -52,3 +52,23 @@ This course focus on CSS version of BootStrap.
   - if you go the other way, increasing the width of the viewport, you can see the same happens in reverse. 
 
 <p align="center"><img src="https://github.com/pagliares/bootstrap-hands-on/blob/main/Images/bootstrap-containers.png" width=824 heigh=323></p>
+
+### 05 - Bootstrap colors
+
+- For more details on Bootstrap colors, visit: https://getbootstrap.com/docs/5.2/customize/color/
+- This examples consists of two web documents (index-with-bootstrap.html and index-without-bootstrap.html). 
+  - The former presents the web document without bootstrap colors applied
+  - The second web document applies several Bootstrap color classes.
+- Features described in the example:
+  - How to apply <strong>background colors</strong> to HTML elements using Bootstrap <strong>using bg-{color}</strong>, where color can be, for instance, <strong>primary</strong>, <strong>secondary</strong>, <strong>danger</strong>, etc.
+  - How to apply <strong>text colors</strong> to HTML elements using Bootstrap <strong>using text-{color}</strong>, where color can be, for instance, <strong>primary</strong>, <strong>danger</strong>, <strong>warning</strong>, etc.
+    - How to apply <strong>link colors</strong> to HTML elements using Bootstrap <strong>using link-{color}</strong>, where color can be, for instance, <strong>primary</strong>, <strong>info</strong>, <strong>light</strong>, etc.
+    - How to use <strong>color variables</strong> to HTML elements, for instance, <strong>--bs-blue</strong>, </strong>--bs-white</strong>, <strong>--bs-greeen</strong>
+- In particular, the example demonstrates how to:
+  - Add color to a text
+  - Change a background color
+  - Change link color
+  - Use color variable
+  - Redefine a color
+
+ 
