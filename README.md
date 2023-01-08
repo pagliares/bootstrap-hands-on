@@ -114,6 +114,19 @@ where:
   - t = top, e = end, b = bottom, s = start, x = x axys, y = y axys
 - AMOUNT may be: 0 1 2 3 4 5 auto
 
+### 08 - Bootstrap spacing (gap)
+- <a href="https://github.com/pagliares/bootstrap-hands-on#outline">Back to Outline</a>
+- For more details on Bootstrap spacing (gap), visit: https://getbootstrap.com/docs/5.2/utilities/spacing/
+- Bootstrap includes a wide range of shorthand responsive margin, padding, and gap utility classes to modify an element’s appearance.
+- This example concentrates on gap.
+
+<strong>Syntax for gap</strong>
+
+gap-{AMOUNT}
+
+where:
+
+- AMOUNT may be: 0 1 2 3 4 5
 
 
 
