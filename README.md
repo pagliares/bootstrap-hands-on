@@ -9,6 +9,7 @@ This hands-on focus on CSS version of BootStrap.
 <a href="https://github.com/pagliares/bootstrap-hands-on#03---reboot">03 - Reboot</a><br>
 <a href="https://github.com/pagliares/bootstrap-hands-on#04---bootstrap-containers">04 - Bootstrap containers</a><br>
 <a href="https://github.com/pagliares/bootstrap-hands-on#05---bootstrap-colors">05 - Bootstrap colors</a><br>
+<a href="https://github.com/pagliares/bootstrap-hands-on#06---bootstrap-spacing-padding">06 - Bootstrap spacing(padding)</a><br>
 
 ## Examples
 
