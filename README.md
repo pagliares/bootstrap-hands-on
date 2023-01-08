@@ -120,6 +120,8 @@ where:
 - For more details on Bootstrap spacing (gap), visit: https://getbootstrap.com/docs/5.2/utilities/spacing/
 - Bootstrap includes a wide range of shorthand responsive margin, padding, and gap utility classes to modify an element’s appearance.
 - This example concentrates on gap.
+- When using <strong>display: grid</strong>, you can make use of gap utilities on the parent grid container. 
+  - This can save on having to add margin utilities to individual grid items (children of a display: grid container). Gap utilities are <strong>responsive by default</strong>.
 
 <strong>Syntax for gap</strong>
 
