@@ -11,6 +11,7 @@ This hands-on focus on CSS version of BootStrap.
 <a href="https://github.com/pagliares/bootstrap-hands-on#05---bootstrap-colors">05 - Bootstrap colors</a><br>
 <a href="https://github.com/pagliares/bootstrap-hands-on#06---bootstrap-spacing-padding">06 - Bootstrap spacing (padding)</a><br>
 <a href="https://github.com/pagliares/bootstrap-hands-on#07---bootstrap-spacing-margin">07 - Bootstrap spacing (margin)</a><br>
+<a href="https://github.com/pagliares/bootstrap-hands-on#08---bootstrap-spacing-gap">08 - Bootstrap spacing (gap)</a><br>
 
 ## Examples
 
